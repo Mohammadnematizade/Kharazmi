@@ -1,3 +1,4 @@
-# Python.Geme.Arcade
-.-.-.-.-.-.-.-
 # Kharazmi 
+
+# Python.Geme.Arcade
+
